@@ -1,3 +1,7 @@
+# Frontend Development Project
+
+*This repo is my solution for the cumulative Qualified assessment for 5.4.x. Complete a React-based web app for creating and displaying recipes, then style using Bootstrap to match mockup.*
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
