@@ -53,7 +53,7 @@ function RecipeCreate({ setRecipes }) {
           </div>
           <div className="col-4">
             <label htmlFor="photo" className="form-label w-100">
-               <input name="photo" className="form-control" onChange={handleChange} value={formData.photo} placeholder="URL"></input>
+               <input name="photo" className="form-control" onChange={handleChange} value={formData.photo} placeholder="Recipe Image URL"></input>
             </label>          
           </div>
         </div>
